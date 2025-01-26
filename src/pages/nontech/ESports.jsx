@@ -58,7 +58,7 @@ function ESports() {
                 justifyContent: "center",
               }}
             >
-              <Button></Button>
+              
               {/* <Button /> */}
             </div>
             <h5
@@ -75,6 +75,7 @@ function ESports() {
             >
               (Registration Closed)
             </h6> */}
+            <Button></Button>
           </div>
           <div className="info">
             <h2>Description</h2>
