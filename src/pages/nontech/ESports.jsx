@@ -75,7 +75,7 @@ function ESports() {
             >
               (Registration Closed)
             </h6> */}
-            <Button></Button>
+            <Button className="regbtn"></Button>
           </div>
           <div className="info">
             <h2>Description</h2>

@@ -193,6 +193,37 @@ body {
   background-image: linear-gradient(to right, #9e00b7, #613aeb);
   /* Adjust colors as desired */
 }
+/* registerbutton */
+.regbtn {
+ border-bottom: 50px;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-family: "nusar";
+  font-size: 28px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.regbtn a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.regbtn:hover {
+  cursor: pointer;
+}
+
+.regbtn{
+
+  background-image: linear-gradient(to right, #613aeb, #9e00b7);
+  /* Adjust colors as desired */
+  border: 0;
+  margin-top: 12px;
+}
+
+.regbtn:hover {
+  background-image: linear-gradient(to right, #9e00b7, #613aeb);
+  /* Adjust colors as desired */
+}
 
 
 .home .content-container {

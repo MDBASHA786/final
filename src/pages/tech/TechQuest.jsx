@@ -203,7 +203,7 @@ function TechQuest() {
           </div>
         </div>
         <div style={{ margin: "auto", textAlign: "center" }}>
-          <Button></Button>
+          <Button className="regbtn"></Button>
         </div>
       </div>
     </>
