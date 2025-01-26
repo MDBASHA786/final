@@ -32,7 +32,7 @@ function CountDown() {
 
         return () => clearInterval(intervalId); // Cleanup function for the interval
     }, []);
- }
+ 
 
     return (
         <div className="count">
@@ -64,6 +64,7 @@ function CountDown() {
             </div>
         </div>
     );
+}
 }
 
 export default CountDown;
