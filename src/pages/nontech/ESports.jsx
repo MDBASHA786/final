@@ -61,12 +61,12 @@ function ESports() {
               
               {/* <Button /> */}
             </div>
-            <h5 style={{ textAlign: "center", marginTop: 12, fontSize: 24 }}>
+            <h5 style={{ textAlign: "center", marginTop: 34, fontSize: 24 }}>
               PUBG,FREEFIRE
             </h5>
             <h5
               className="event-phone"
-              style={{ textAlign: "center", marginTop: 34, fontSize: 21 }}
+              style={{ textAlign: "center", marginTop: 14, fontSize: 21 }}
             >
               +91 6380381466
             </h5>
@@ -78,7 +78,7 @@ function ESports() {
             </h5>
             <h5
               className="event-phone"
-              style={{ textAlign: "center", marginTop: 34, fontSize: 21 }}
+              style={{ textAlign: "center", marginTop: 14, fontSize: 21 }}
             >
               +91 8825836592
             </h5>

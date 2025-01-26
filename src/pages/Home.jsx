@@ -25,7 +25,8 @@ function Home() {
   return (
     <div className="home">
       {/* hero-section */}
-      <div className="hero" id="hero" style={{ zIndex: 180, position: "relative" }}>
+      <section id="hero">
+      <div className="hero"  style={{ zIndex: 180, position: "relative" }}>
         <div className="container logo">
           {/* <div className="logo-img">
             <img
@@ -55,6 +56,7 @@ function Home() {
           <p className="glow" style={{ fontSize: 34 }}>17th FEB'25</p>
         </div>
       </div>
+      </section>
 
       {/* CountDown */}
       <h1 className="count-h">COUNTDOWN</h1>
