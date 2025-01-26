@@ -1,5 +1,5 @@
 export const META_EVENTS = [
-  {
+  { id:"tech",
     title: "TECHNICAL EVENTS",
     desc: "Unlock your potential and ignite your curiosity",
     events: [
@@ -33,7 +33,7 @@ export const META_EVENTS = [
       },
     ],
   },
-  {
+  { id:"nontech",
     title: "NON TECH EVENTS",
     desc: "Embrace discovery, every step brings new horizons",
     events: [
