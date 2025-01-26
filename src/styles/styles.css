@@ -610,6 +610,11 @@ body {
   margin-top: 12px;
   margin-left: 20px;
 }
+
+.events .d-flex .info ol {
+  margin-top: 12px;
+  margin-left: 20px;
+}
 .events .d-flex .info ul li {
   margin: 6px 0;
 }
