@@ -164,7 +164,7 @@ body {
 
 
 .btn {
-  bottom: 50px;
+ 
   padding: 8px 12px;
   border-radius: 6px;
   font-family: "nusar";
@@ -182,6 +182,7 @@ body {
 }
 
 .btn-primary {
+  bottom: 50px;
   background-image: linear-gradient(to right, #613aeb, #9e00b7);
   /* Adjust colors as desired */
   border: 0;
