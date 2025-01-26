@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-// function CountDown() {
+function CountDown() {
 //     //timer code 
 //     {const [countDown, setCountDown] = useState({
 //         days: 0,
