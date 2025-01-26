@@ -81,7 +81,7 @@ export const CONTACT_INFO = [
     role: "staff",
     data: [
       { name: "Dr. Nabeena Ameen" },
-      { name: "Dr. Nabeena Ameen" },
+      { name: "Dr. P. Gnanasekaran" },
     ],
   },
   {
