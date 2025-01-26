@@ -33,36 +33,36 @@ function CountDown() {
         return () => clearInterval(intervalId); // Cleanup function for the interval
     }, []); }
 
-    return (
-        <div className="count">
-            <div>
-                <div className="d-flex">
-                    <div className="block">
-                        <h6>Days</h6>
-                        <h5>00</h5>
-                        {/* <h5>{countDown.days}</h5> */}
-                    </div>
-                    <div className="block">
-                        <h6>Hours</h6>
-                        <h5>00</h5>
-                        {/* <h5>{countDown.hours.toString().padStart(2, '0')}</h5> */}
-                    </div>
-                    <div className="block">
-                        <h6>Mins</h6>
-                        <h5>00</h5>
-                        {/* <h5>{countDown.minutes.toString().padStart(2, '0')}</h5> */}
-                    </div>
-                    <div className="block">
-                        <h6>Sec's</h6>
-                        {/* <h5>{countDown.seconds.toString().padStart(2, '0')}</h5> */}
-                        <h5>00</h5>
-                    </div>
-                </div>
+    // return (
+    //     <div className="count">
+    //         <div>
+    //             <div className="d-flex">
+    //                 <div className="block">
+    //                     <h6>Days</h6>
+    //                     <h5>00</h5>
+    //                     {/* <h5>{countDown.days}</h5> */}
+    //                 </div>
+    //                 <div className="block">
+    //                     <h6>Hours</h6>
+    //                     <h5>00</h5>
+    //                     {/* <h5>{countDown.hours.toString().padStart(2, '0')}</h5> */}
+    //                 </div>
+    //                 <div className="block">
+    //                     <h6>Mins</h6>
+    //                     <h5>00</h5>
+    //                     {/* <h5>{countDown.minutes.toString().padStart(2, '0')}</h5> */}
+    //                 </div>
+    //                 <div className="block">
+    //                     <h6>Sec's</h6>
+    //                     {/* <h5>{countDown.seconds.toString().padStart(2, '0')}</h5> */}
+    //                     <h5>00</h5>
+    //                 </div>
+    //             </div>
 
 
-            </div>
-        </div>
-    );
+    //         </div>
+    //     </div>
+    // );
 }
 
 export default CountDown;
