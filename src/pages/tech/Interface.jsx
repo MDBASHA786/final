@@ -46,8 +46,9 @@ function Interface() {
             </h6> */}
             <div className="regbtn" style={{  textAlign: "center" }}>
         
-             <Button ></Button>
-           
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSe4gD8hGiO1VpZllED1bfwzNfnIJNkxRqzCZsgzLtCO5KzkfA/viewform?usp=header">
+             <Button > </Button>
+             </a>
             </div>
           </div>
           <div className="info">

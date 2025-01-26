@@ -86,7 +86,9 @@ function PaperCres() {
             </h6>
             <div className="regbtn" style={{  textAlign: "center" }}>
            
-             <Button ></Button>
+             <a href="https://docs.google.com/forms/d/e/1FAIpQLScnNbVqfSnP-zi83AUfdZJRpa67PiHbow1BYmK8HUNF9zZvMg/viewform?usp=header">
+             <Button > </Button>
+             </a>
              
             </div>
           </div>

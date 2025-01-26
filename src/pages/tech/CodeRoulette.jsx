@@ -61,7 +61,9 @@ function CodeRoulette() {
             </h6> */}
             <div className="regbtn" style={{  textAlign: "center" }}>
            
-             <Button ></Button>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdZ4mh8V1Ij0FMtTuGBlSMw94HpBoRNerRc2m3APx50Y1_gXA/viewform?usp=header">
+             <Button > </Button>
+             </a>
              
             </div>
           </div>
