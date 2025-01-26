@@ -99,7 +99,7 @@ body {
 }
 
 .sidebar-links {
-  list-style: none;
+  st-style: none;
   padding: 0;
   margin: 0;
 }
@@ -608,6 +608,7 @@ body {
 }
 .events .d-flex .info ul {
   margin-top: 12px;
+  margin-left: 20px;
 }
 .events .d-flex .info ul li {
   margin: 6px 0;
