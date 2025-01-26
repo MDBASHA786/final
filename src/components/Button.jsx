@@ -16,11 +16,11 @@ import '../assets/fonts/nusar.css';
 
 function Button() {
   return (
-    <Link to="/Registration">
+   
       <button type='button' className='btn btn-primary'>
         Register
       </button>
-    </Link>
+    
   );
 }
 

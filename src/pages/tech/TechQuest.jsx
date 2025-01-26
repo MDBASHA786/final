@@ -66,6 +66,11 @@ function TechQuest() {
             >
               (Registration Closed)
             </h6> */}
+            <div className="regbtn" style={{  textAlign: "center" }}>
+             <Link to="https://docs.google.com/forms/d/e/1FAIpQLSd1LVU2fE9r9KKveZohC5UKLLFyxpOm1yyxIqopombEvmGksA/viewform?usp=header">
+             <Button ></Button>
+             </Link>
+            </div>
           </div>
           <div className="info">
             <h2>Description</h2>
@@ -202,9 +207,8 @@ function TechQuest() {
             </ul>
           </div>
         </div>
-        <div style={{ margin: "auto", textAlign: "center" }}>
-          <Button className="regbtn"></Button>
-        </div>
+     
+        
       </div>
     </>
   );

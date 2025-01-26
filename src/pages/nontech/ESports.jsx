@@ -75,7 +75,11 @@ function ESports() {
             >
               (Registration Closed)
             </h6> */}
-            <Button className="regbtn"></Button>
+            <div className="regbtn" style={{  textAlign: "center" }}>
+             <Link to="">
+             <Button ></Button>
+             </Link>
+            </div>
           </div>
           <div className="info">
             <h2>Description</h2>

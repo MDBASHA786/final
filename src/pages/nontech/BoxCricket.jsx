@@ -43,8 +43,14 @@ function BoxCricket() {
             <h5 style={{ textAlign: "center", marginTop: 12, fontSize: 24 }}>
               Abinash
             </h5>
+            <div className="regbtn" style={{  textAlign: "center" }}>
+            <Link to="">
+             <Button ></Button>
+             </Link>
+            </div>
             {/* <h6 style={{ textAlign: "center", marginTop: 12,color: '#ffffff59'}}>(Registration Closed)</h6> */}
           </div>
+
           <div className="info">
             <h2>Description</h2>
             <p>
@@ -68,9 +74,7 @@ function BoxCricket() {
             </ul>
           </div>
         </div>
-        <div className="regbtn" style={{ margin: "auto", textAlign: "center" }}>
-          <Button ></Button>
-        </div>
+        
       </div>
     </>
   );

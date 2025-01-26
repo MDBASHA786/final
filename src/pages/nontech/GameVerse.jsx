@@ -65,6 +65,11 @@ function GameVerse() {
             >
               (Registration Closed)
             </h6> */}
+            <div className="regbtn" style={{  textAlign: "center" }}>
+             <Link to="">
+             <Button ></Button>
+             </Link>
+            </div>
           </div>
           <div className="info">
             <h2>Description</h2>
@@ -117,9 +122,7 @@ function GameVerse() {
             </ul>
           </div>
         </div>
-        <div style={{ margin: "auto", textAlign: "center" }}>
-          <Button className="regbtn"></Button>
-        </div>
+        
       </div>
     </>
   );
