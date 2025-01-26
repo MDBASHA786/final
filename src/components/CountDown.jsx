@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 
 function CountDown() {
     //timer code 
-    {/* const [countDown, setCountDown] = useState({
+    {const [countDown, setCountDown] = useState({
         days: 0,
         hours: 0,
         minutes: 0,
@@ -31,7 +31,7 @@ function CountDown() {
         }, 1000); // Update countdown every second
 
         return () => clearInterval(intervalId); // Cleanup function for the interval
-    }, []); */}
+    }, []); }
 
     return (
         <div className="count">
