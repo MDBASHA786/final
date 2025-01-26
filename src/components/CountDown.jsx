@@ -39,21 +39,22 @@ function CountDown() {
                 <div className="d-flex">
                     <div className="block">
                         <h6>Days</h6>
-                         <h5>{countDown.days}</h5> 
+                         <h5>{CountDown.days}</h5> 
                     </div>
                     <div className="block">
                         <h6>Hours</h6>
-                        <h5>{countDown.hours.toString().padStart(2, '0')}</h5> 
+                        <h5>00</h5>
+                        <h5>{CountDown.hours.toString().padStart(2, '0')}</h5> 
                     </div>
                     <div className="block">
                         <h6>Mins</h6>
-                       
-                       <h5>{countDown.minutes.toString().padStart(2, '0')}</h5> 
+                        <h5>00</h5>
+                       <h5>{CountDown.minutes.toString().padStart(2, '0')}</h5> 
                     </div>
                     <div className="block">
                         <h6>Sec's</h6>
-                        <h5>{countDown.seconds.toString().padStart(2, '0')}</h5> 
-                        
+                        <h5>{CountDown.seconds.toString().padStart(2, '0')}</h5> 
+                        <h5>00</h5>
                     </div>
                 </div>
 
