@@ -172,9 +172,9 @@ function NavBar() {
         </button>
         <ul className="sidebar-links">
           <li>
-            <Link to=".hero" onClick={toggleSidebar}>
+            <a href=".home">
               Home
-            </Link>
+            </a>
           </li>
           {/* <li>
             <Link to="/registration" onClick={toggleSidebar}>
@@ -183,9 +183,9 @@ function NavBar() {
           </li> */}
                
           <li className="dropdown">
-          <Link to="#tech" onClick={toggleSidebar}>
+          <a href="#tech">
             Technical Events
-            </Link>
+            </a>
             <ul className="dropdown-menu">
               <li>
                 <Link to="/event/PaperCres" onClick={toggleSidebar}>
@@ -210,9 +210,9 @@ function NavBar() {
             </ul>
           </li>
           <li className="dropdown">
-          <Link to="#nontech" onClick={toggleSidebar}>
-            Non-Technical Events
-            </Link>
+             <a href="#nontech">
+                Non-Technical Events
+             </a>
             <ul className="dropdown-menu">
               <li>
                 <Link to="/event/GameVerse" onClick={toggleSidebar}>
