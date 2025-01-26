@@ -172,7 +172,7 @@ function NavBar() {
         </button>
         <ul className="sidebar-links">
           <li>
-            <Link to="#Home" onClick={toggleSidebar}>
+            <Link to="/" onClick={toggleSidebar}>
               Home
             </Link>
           </li>
