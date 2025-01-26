@@ -9,7 +9,7 @@ function CountDown() {
         seconds: 0,
     });
 
-    const targetDate = new Date('2024-04-13T09:30:00');
+    const targetDate = new Date('2025-04-13T09:30:00');
 
     useEffect(() => {
         const intervalId = setInterval(() => {
@@ -39,23 +39,23 @@ function CountDown() {
                 <div className="d-flex">
                     <div className="block">
                         <h6>Days</h6>
-                        <h5>00</h5>
+                        
                         { <h5>{countDown.days}</h5> }
                     </div>
                     <div className="block">
                         <h6>Hours</h6>
-                        <h5>00</h5>
+                       
                         {<h5>{countDown.hours.toString().padStart(2, '0')}</h5> }
                     </div>
                     <div className="block">
                         <h6>Mins</h6>
-                        <h5>00</h5>
+                      
                        {<h5>{countDown.minutes.toString().padStart(2, '0')}</h5> }
                     </div>
                     <div className="block">
                         <h6>Sec's</h6>
                         {<h5>{countDown.seconds.toString().padStart(2, '0')}</h5> }
-                        <h5>00</h5>
+                        
                     </div>
                 </div>
 
