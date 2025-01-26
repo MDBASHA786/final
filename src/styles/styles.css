@@ -260,7 +260,8 @@ body {
   margin: 18px auto;
 }
 .reg-btn{
-  left:10px;
+align-items: center;
+top: 50px;
 }
 
 .count-h {

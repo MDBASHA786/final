@@ -68,11 +68,10 @@ function BoxCricket() {
             </ul>
           </div>
         </div>
-       
-      </div>
-      <div className="regbtn" style={{ margin: "auto", textAlign: "center" }}>
+        <div className="regbtn" style={{ margin: "auto", textAlign: "center" }}>
           <Button ></Button>
         </div>
+      </div>
     </>
   );
 }
