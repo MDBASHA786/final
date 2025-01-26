@@ -60,7 +60,7 @@ function BioScope() {
             >
               (Registration Closed)
             </h6> */}
-             <div className="regbtn" style={{ margin: "auto", textAlign: "center" }}>
+             <div className="regbtn" style={{  textAlign: "center" }}>
           <Button ></Button>
         </div>
           </div>
