@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 
 function CountDown() {
     
-    {const [countDown,setCountDown] = useState({
+    {const [countDown, setCountDown] = useState({
         days: 0,
         hours: 0,
         minutes: 0,
@@ -34,28 +34,28 @@ function CountDown() {
     }, []);
  }
 
-    return (
+    
         <div className="count">
             <div>
                 <div className="d-flex">
                     <div className="block">
                         <h6>Days</h6>
                         
-                        { <h5>{intervalId.days}</h5> }
+                        { <h5>{countDown.days}</h5> }
                     </div>
                     <div className="block">
                         <h6>Hours</h6>
                        
-                        {<h5>{intervalId.hours.toString().padStart(2, '0')}</h5> }
+                        {<h5>{countDown.hours.toString().padStart(2, '0')}</h5> }
                     </div>
                     <div className="block">
                         <h6>Mins</h6>
                       
-                       {<h5>{intervalId.minutes.toString().padStart(2, '0')}</h5> }
+                       {<h5>{countDown.minutes.toString().padStart(2, '0')}</h5> }
                     </div>
                     <div className="block">
                         <h6>Sec's</h6>
-                        {<h5>{intervalId.seconds.toString().padStart(2, '0')}</h5> }
+                        {<h5>{countDown.seconds.toString().padStart(2, '0')}</h5> }
                         
                     </div>
                 </div>
@@ -63,7 +63,7 @@ function CountDown() {
 
             </div>
         </div>
-    );
+    
 }
 
 export default CountDown;
