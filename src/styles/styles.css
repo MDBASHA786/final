@@ -194,9 +194,6 @@ body {
   /* Adjust colors as desired */
 }
 /* registerbutton */
-.reg-btn{
-  left:10px;
-}
 
 
 .home .content-container {
@@ -261,6 +258,9 @@ body {
 .hero .logo p {
   font-size: 30px;
   margin: 18px auto;
+}
+.reg-btn{
+  left:10px;
 }
 
 .count-h {
