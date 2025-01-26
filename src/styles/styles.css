@@ -385,7 +385,7 @@ body {
   z-index: -1;
 }
 .home .glitch:after {
-  animation: glitch-color 0.7s cubic-bezier(0.25, 0.30, 0.40, 0.60) reverse both infinite;
+  animation: glitch-color 0.7s cubic-bezier(0.25, 0.30, 0.40, 0.60) both infinite;
   color: #240d9b;
   z-index: -2;
 }
