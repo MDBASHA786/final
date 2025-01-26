@@ -68,7 +68,7 @@ function TechQuest() {
             </h6> */}
             <div className="regbtn" style={{  textAlign: "center" }}>
             
-             <Button > <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1LVU2fE9r9KKveZohC5UKLLFyxpOm1yyxIqopombEvmGksA/viewform?usp=header"></a></Button>
+             <Button onClick="https://docs.google.com/forms/d/e/1FAIpQLSd1LVU2fE9r9KKveZohC5UKLLFyxpOm1yyxIqopombEvmGksA/viewform?usp=header"> </Button>
            
             </div>
           </div>
