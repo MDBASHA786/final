@@ -2,14 +2,14 @@ import { useState, useEffect } from 'react';
 
 function CountDown() {
     
-    {const [cnt, setCountDown] = useState({
+    {const [countDown, setCountDown] = useState({
         days: 0,
         hours: 0,
         minutes: 0,
         seconds: 0,
     });
 
-    const targetDate = new Date('2025-04-13T09:30:00');
+    const targetDate = new Date('2025-02-17T09:00:00');
 
     useEffect(() => {
         const intervalId = setInterval(() => {
@@ -41,21 +41,21 @@ function CountDown() {
                     <div className="block">
                         <h6>Days</h6>
                         
-                        { <h5>{cnt.days}</h5> }
+                        { <h5>{countDown.days}</h5> }
                     </div>
                     <div className="block">
                         <h6>Hours</h6>
                        
-                        {<h5>{cnt.hours.toString().padStart(2, '0')}</h5> }
+                        {<h5>{countDown.hours.toString().padStart(2, '0')}</h5> }
                     </div>
                     <div className="block">
                         <h6>Mins</h6>
                       
-                       {<h5>{cnt.minutes.toString().padStart(2, '0')}</h5> }
+                       {<h5>{countDown.minutes.toString().padStart(2, '0')}</h5> }
                     </div>
                     <div className="block">
                         <h6>Sec's</h6>
-                        {<h5>{cnt.seconds.toString().padStart(2, '0')}</h5> }
+                        {<h5>{countDown.seconds.toString().padStart(2, '0')}</h5> }
                         
                     </div>
                 </div>
