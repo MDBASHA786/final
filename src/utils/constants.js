@@ -115,7 +115,7 @@ export const contentData = {
     text: "ICON, a National-level symposium, is meticulously organized by the professional society 'Society of Information Technologists (SIT),' as a platform to elevate the technical skills of students. This symposium, hosted by the department, serves as a dynamic arena for knowledge exchange and skill enhancement, fostering a vibrant community of Information Technology enthusiasts.Join us at ICON to engage with cutting-edge insights, network with industry experts, and empower your journey in the ever-evolving field of technology."
   },
   college: {
-    title: "About Department",
+    title: "About IT Department",
     img: "/imgs/grp.jpeg",
     text: "The department was started in 1999 and has been offering B.Tech.-Information Technology since 1999, M.Tech.-Information Technology since 2010 and Ph.D since 2009. It has highly qualified, experienced and dedicated faculty members specialized in various areas like Artificial Intelligence, Deep Learning, Machine Learning, IoT, IIoT, Data Science, Cyber Security, Cloud Computing, Mobile Computing & Networks, Computer Networks, Ad hoc Networks and Software Engineering."
   }

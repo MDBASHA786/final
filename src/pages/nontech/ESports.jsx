@@ -58,6 +58,7 @@ function ESports() {
                 justifyContent: "center",
               }}
             >
+              <Button></Button>
               {/* <Button /> */}
             </div>
             <h5
@@ -107,7 +108,7 @@ function ESports() {
           </div>
         </div>
         <div style={{ margin: "auto", textAlign: "center" }}>
-          <Button></Button>
+          
         </div>
       </div>
     </>
