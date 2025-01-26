@@ -61,6 +61,9 @@ function ESports() {
               
               {/* <Button /> */}
             </div>
+            <h5 style={{ textAlign: "center", marginTop: 12, fontSize: 24 }}>
+              PUBG,FREEFIRE
+            </h5>
             <h5
               className="event-phone"
               style={{ textAlign: "center", marginTop: 34, fontSize: 21 }}
@@ -70,6 +73,18 @@ function ESports() {
             <h5 style={{ textAlign: "center", marginTop: 12, fontSize: 24 }}>
               Mahadeer
             </h5>
+            <h5 style={{ textAlign: "center", marginTop: 12, fontSize: 24 }}>
+              VALORANT,FIFA
+            </h5>
+            <h5
+              className="event-phone"
+              style={{ textAlign: "center", marginTop: 34, fontSize: 21 }}
+            >
+              +91 8825836592
+            </h5>
+            <h5 style={{ textAlign: "center", marginTop: 12, fontSize: 24 }}>
+              SHANJAY PRIYAN
+            </h5>
             {/* <h6
               style={{ textAlign: "center", marginTop: 12, color: "#ffffff59" }}
             >
@@ -77,7 +92,7 @@ function ESports() {
             </h6> */}
             <div className="regbtn" style={{  textAlign: "center" }}>
         
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1LVU2fE9r9KKveZohC5UKLLFyxpOm1yyxIqopombEvmGksA/viewform?usp=header">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
              <Button > </Button>
              </a>
            

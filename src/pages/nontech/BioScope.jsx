@@ -62,7 +62,7 @@ function BioScope() {
             </h6> */}
              <div className="regbtn" style={{  textAlign: "center" }}>
           
-             <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1LVU2fE9r9KKveZohC5UKLLFyxpOm1yyxIqopombEvmGksA/viewform?usp=header">
+             <a href="https://docs.google.com/forms/d/e/1FAIpQLSc-xUyNB8iIJvNm2k11Y6h7Lv4odbYTnvQgR9CDFnd4xb8rxA/viewform?usp=sharing">
               <Button > </Button>
              </a>
              </div>

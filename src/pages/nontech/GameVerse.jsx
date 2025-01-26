@@ -67,7 +67,7 @@ function GameVerse() {
             </h6> */}
             <div className="regbtn" style={{  textAlign: "center" }}>
            
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1LVU2fE9r9KKveZohC5UKLLFyxpOm1yyxIqopombEvmGksA/viewform?usp=header">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdI_I58zlIuCfUXIWBB-jU6OmN9Pf6ceMt6o1ZRvQV7zNjVIg/viewform?usp=sharing">
              <Button > </Button>
              </a>
             

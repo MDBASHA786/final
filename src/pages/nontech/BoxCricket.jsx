@@ -45,7 +45,7 @@ function BoxCricket() {
             </h5>
             <div className="regbtn" style={{  textAlign: "center" }}>
             
-             <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1LVU2fE9r9KKveZohC5UKLLFyxpOm1yyxIqopombEvmGksA/viewform?usp=header">
+             <a href="https://docs.google.com/forms/d/e/1FAIpQLSdETkNVZ6lVkSt7542_W70yqvQhzao4_0mkGYOzbzwDclwIMw/viewform?usp=sharing">
               <Button > </Button>
              </a>
             
