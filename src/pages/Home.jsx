@@ -25,7 +25,7 @@ function Home() {
   return (
     <div className="home">
       {/* hero-section */}
-      <div className="hero" style={{ zIndex: 180, position: "relative" }}>
+      <div className="hero" id="hero" style={{ zIndex: 180, position: "relative" }}>
         <div className="container logo">
           {/* <div className="logo-img">
             <img
