@@ -85,9 +85,9 @@ function PaperCres() {
               (Registration Closed)
             </h6>
             <div className="regbtn" style={{  textAlign: "center" }}>
-             <Link to="">
+           
              <Button ></Button>
-             </Link>
+             
             </div>
           </div>
           <div className="info">
