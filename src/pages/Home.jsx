@@ -8,7 +8,7 @@ import "../assets/fonts/font.css";
 import "../assets/fonts/nusar.css";
 
 // 3
-import Button from "../components/Button";
+import Button from "../components/Button copy";
 import CountDown from "../components/CountDown";
 
 import Events from "../components/Events";
