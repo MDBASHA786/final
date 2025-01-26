@@ -664,6 +664,7 @@ body {
 .events .regbtn{
   align-items: center;
   margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .footer {
