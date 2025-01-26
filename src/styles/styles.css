@@ -259,10 +259,6 @@ body {
   font-size: 30px;
   margin: 18px auto;
 }
-.reg-btn{
-align-items: center;
-top: 400px;
-}
 
 .count-h {
   position: relative;
@@ -664,6 +660,10 @@ top: 400px;
 }
 .events .treasure button:hover {
   transform: scale(1.08);
+}
+.events .regbtn{
+  align-items: center;
+  margin-top: 100px;
 }
 
 .footer {
