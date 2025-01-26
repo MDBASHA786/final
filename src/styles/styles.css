@@ -11,7 +11,7 @@ body {
   overflow-x: hidden;
   background-color: #000;
   font-family: "Space Grotesk";
-  -webkit-tap-highlight-color: transparent;
+  /* -webkit-tap-highlight-color: transparent; */
 }
 
 /* Navbar Styling */
@@ -182,7 +182,7 @@ body {
 }
 
 .btn-primary {
-  bottom: 50px;
+
   background-image: linear-gradient(to right, #613aeb, #9e00b7);
   /* Adjust colors as desired */
   border: 0;
