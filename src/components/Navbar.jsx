@@ -134,7 +134,7 @@ import { Link } from "react-router-dom";
 import icon from "../assets/imgs/cres.png";
 import twofive from "../assets/imgs/25.png";
 import sit from "../assets/imgs/SITlogo.png";
-
+import ieee from "../assets/imgs/ieee.png";
 function NavBar() {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
 
@@ -153,7 +153,7 @@ function NavBar() {
           <img src={sit} alt="Center Logo" className="logos" />
         </div>
         <div className="navbar-center">
-          <img src={ieee} alt="Right Logo" className="logos" />
+          <img src={ieee} alt="center Logo" className="logos" />
         </div>
         <div className="navbar-right">
           <img src={twofive} alt="Right Logo" className="logos" />
