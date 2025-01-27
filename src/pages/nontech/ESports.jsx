@@ -27,6 +27,12 @@ function ESports() {
             alt=""
             className="Games"
           />
+             <img
+            src="/imgs/games/efoot.jpeg"
+            width={40}
+            alt=""
+            className="Games"
+          />
           <img
             src="/imgs/games/FreeFire.jpeg"
             width={40}
