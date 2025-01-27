@@ -28,7 +28,7 @@ function ESports() {
             className="Games"
           />
              <img
-            src="/imgs/games/efoot.jpeg"
+            src="/imgs/games/efoot.png"
             width={40}
             alt=""
             className="Games"
