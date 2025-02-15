@@ -32,7 +32,7 @@ body {
 
 .navbar-left,
 .navbar-center,
-.navbar-right{
+.navbar-right,.navbar-down-left{
   display: flex;
   align-items: center;
   /* justify-content: center; */
@@ -40,6 +40,9 @@ body {
 .navbar-center {
   flex: 1; 
   justify-content: center;
+}
+.navbar-down-left{
+  top:100px;
 }
 
 .navbar-right {
