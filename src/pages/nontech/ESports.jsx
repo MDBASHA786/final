@@ -86,17 +86,21 @@ function ESports() {
             >
               (Registration Closed)
             </h6> */}
-            <div className="regbtn" style={{  textAlign: "center" }}>
-        
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
-             <Button > </Button>Valorant
+            <div className="regbtne regbtne-primary" style={{  textAlign: "center" }}>
+            <Ul>
+            <li> <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
+             Valorant
              </a>
-             <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
-             <Button > </Button>Pubg
+             </li>
+             <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
+             Pubg
              </a>
-             <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
-             <Button > </Button>Free Fire
+             </li>
+             <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
+             Free Fire
              </a>
+             </li>
+             </Ul>
            
             </div>
           </div>
