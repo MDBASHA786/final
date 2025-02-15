@@ -81,7 +81,7 @@ function ESports() {
             <h5 style={{ textAlign: "center", marginTop: 12, fontSize: 24 }}>
               SHANJAY PRIYAN
             </h5>
-            <h5 style={{ textAlign: "center", marginTop: 12, fontSize: 20 }}>
+            <h5 style={{ textAlign: "center", marginTop: 18, fontSize: 20 }}>
               Click To Register
             </h5>
             {/* <h6
