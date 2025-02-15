@@ -81,6 +81,9 @@ function ESports() {
             <h5 style={{ textAlign: "center", marginTop: 12, fontSize: 24 }}>
               SHANJAY PRIYAN
             </h5>
+            <h5 style={{ textAlign: "center", marginTop: 12, fontSize: 20 }}>
+              Click To Register
+            </h5>
             {/* <h6
               style={{ textAlign: "center", marginTop: 12, color: "#ffffff59" }}
             >
@@ -92,10 +95,10 @@ function ESports() {
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
              <Button label="VALORANT" > </Button>
              </a>
-             <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
+             <a href="https://docs.google.com/forms/d/e/1FAIpQLScv6KucQsh90dwmx2N9tOH4JY9YY6GuS4xBsfb3rXbDAb8_Hg/viewform?usp=sharing">
              <Button label="PUBG"> </Button>
              </a>
-             <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
+             <a href="https://docs.google.com/forms/d/e/1FAIpQLSda-QMPT4nS9KabZfgPgbuzIX27hyAkeb5DFs4ErY2E7y0orw/viewform?usp=sharing">
              <Button label="FREE FIRE"></Button>
              </a>
             </div>
