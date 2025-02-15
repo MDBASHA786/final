@@ -27,24 +27,14 @@ function ESports() {
             alt=""
             className="Games"
           />
-             <img
-            src="/imgs/games/efoot.png"
-            width={40}
-            alt=""
-            className="Games"
-          />
+            
           <img
             src="/imgs/games/FreeFire.jpeg"
             width={40}
             alt=""
             className="Games"
           />
-          <img
-            src="/imgs/games/Fifa.jpeg"
-            width={40}
-            alt=""
-            className="Games"
-          />
+         
           <img
             src="/imgs/games/Valorant.jpeg"
             width={40}
@@ -80,7 +70,7 @@ function ESports() {
               Mahadeer
             </h5>
             <h5 style={{ textAlign: "center", marginTop: 12, fontSize: 24 }}>
-              VALORANT,FIFA
+              VALORANT
             </h5>
             <h5
               className="event-phone"
@@ -99,7 +89,13 @@ function ESports() {
             <div className="regbtn" style={{  textAlign: "center" }}>
         
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
-             <Button > </Button>
+             <Button >Valorant </Button>
+             </a>
+             <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
+             <Button >Pubg </Button>
+             </a>
+             <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
+             <Button >Free Fire </Button>
              </a>
            
             </div>
