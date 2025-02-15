@@ -86,21 +86,17 @@ function ESports() {
             >
               (Registration Closed)
             </h6> */}
-            <div className="regbtne regbtne-primary" style={{  textAlign: "center" }}>
-            <Ul>
-            <li> <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
+            <div className="regbtne regbtn-primary" style={{  textAlign: "center" }}>
+        
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
              Valorant
              </a>
-             </li>
-             <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
+             <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
              Pubg
              </a>
-             </li>
-             <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
+             <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
              Free Fire
              </a>
-             </li>
-             </Ul>
            
             </div>
           </div>
