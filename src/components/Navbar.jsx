@@ -149,9 +149,7 @@ function NavBar() {
         <div className="navbar-left">
           <img src={icon} alt="Left Logo" className="logos" />
         </div>
-        <div className="navbar-down-left">
-         <h>HOME</h>
-        </div>
+       
         <div className="navbar-center">
           <img src={sit} alt="Center Logo" className="logos" />
         </div>
