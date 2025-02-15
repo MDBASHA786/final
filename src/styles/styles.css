@@ -162,36 +162,7 @@ body {
   }
 }
 
-.regbtne {
- 
-  padding: 8px 12px;
-  border-radius: 6px;
-  font-family: "nusar";
-  font-size: 28px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-.regbtne a {
-  text-decoration: none;
-  color: #fff;
-}
 
-.regbtne:hover {
-  cursor: pointer;
-}
-
-.regbtne-primary {
-
-  background-image: linear-gradient(to right, #613aeb, #9e00b7);
-  /* Adjust colors as desired */
-  border: 0;
-  margin-top: 12px;
-}
-
-.regbtne-primary:hover {
-  background-image: linear-gradient(to right, #9e00b7, #613aeb);
-  /* Adjust colors as desired */
-}
 
 .btn {
  

@@ -14,11 +14,11 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import '../assets/fonts/nusar.css';
 
-function Button() {
+function Button({label="Register"}) {
   return (
    
       <button type='button' className='btn btn-primary'>
-        Register
+        {label}
       </button>
     
   );

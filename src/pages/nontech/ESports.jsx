@@ -86,18 +86,19 @@ function ESports() {
             >
               (Registration Closed)
             </h6> */}
-            <div className="regbtne regbtn-primary" style={{  textAlign: "center" }}>
+            <div className="regbtn" style={{  textAlign: "center" }}>
+            <div style={{ display: "flex", flexDirection: "column", gap: "10px", alignItems: "center" }}> 
         
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
-             Valorant
+             <Button label="VALORANT" > </Button>
              </a>
              <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
-             Pubg
+             <Button label="PUBG"> </Button>
              </a>
              <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
-             Free Fire
+             <Button label="FREE FIRE"></Button>
              </a>
-           
+            </div>
             </div>
           </div>
           <div className="info">
