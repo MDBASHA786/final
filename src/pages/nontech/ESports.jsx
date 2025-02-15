@@ -89,13 +89,13 @@ function ESports() {
             <div className="regbtn" style={{  textAlign: "center" }}>
         
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
-             <Button >Valorant </Button>
+             <Button > </Button>Valorant
              </a>
              <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
-             <Button >Pubg </Button>
+             <Button > </Button>Pubg
              </a>
              <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
-             <Button >Free Fire </Button>
+             <Button > </Button>Free Fire
              </a>
            
             </div>
