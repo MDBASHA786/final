@@ -70,8 +70,8 @@ export const META_EVENTS = [
 ];
 
 export const SPONSERS = [
-  // { name: "Meriba Paneer", imgURL: "/imgs/sponsors/sp1.webp" },
-  // { name: "Upkar Foundation", imgURL: "/imgs/sponsors/sp4.webp" },
+  { name: "IOE", imgURL: "/imgs/sponsors/sp1.webp" },
+  { name: "GUVI", imgURL: "/imgs/sponsors/sp4.webp" }
   // { name: "Trust", imgURL: "/imgs/sponsors/sp5.webp" },
 ];
 
