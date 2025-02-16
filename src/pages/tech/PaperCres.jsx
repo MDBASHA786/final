@@ -130,14 +130,16 @@ function PaperCres() {
             and make an impact in your area of expertise!
             </p>
             <h2>Topics</h2>
-            <ul>
+          
+            <ul style="list-style: none;">
               {topics.map((topic, index) => (
                 <li key={index}>{topic}</li>
               ))}
+            
             </ul>
 
             <h2>RULES</h2>
-            <ul>
+            <ul style="list-style: none;">
               {rules.map((rule, index) => (
                 <li key={index}>{rule}</li>
               ))}
