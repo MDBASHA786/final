@@ -131,7 +131,7 @@ function PaperCres() {
             </p>
             <h2>Topics</h2>
           
-            <ul style="list-style: none;">
+            <ul style={{liststyle: none}}>
               {topics.map((topic, index) => (
                 <li key={index}>{topic}</li>
               ))}
@@ -139,7 +139,7 @@ function PaperCres() {
             </ul>
 
             <h2>RULES</h2>
-            <ul style="list-style: none;">
+            <ul style={{liststyle: none}}>
               {rules.map((rule, index) => (
                 <li key={index}>{rule}</li>
               ))}
