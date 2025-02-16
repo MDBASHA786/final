@@ -107,7 +107,7 @@ function Home() {
       <div className="grid-sponsers">
         {SPONSERS.map((sponser, index) => (
           <div className="card" key={index}>
-            <img onClick={sponser.link} src={sponser.imgURL} width="230" alt={sponser.name} />
+            <a href={sponser.link}><img  src={sponser.imgURL} width="230" alt={sponser.name} /></a>
           </div>
         ))}
       </div>
