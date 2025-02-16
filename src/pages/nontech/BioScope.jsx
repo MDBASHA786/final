@@ -25,7 +25,7 @@ function BioScope() {
     "A partially blank movie name will be shown to the players. They must fill in the blanks to identify the correct movie name. ( one general clues will be given )",
   ];
 
-  const round4 = ["SURPRIZE ROUND"];
+  const round4 = ["SURPRISE ROUND"];
 
   return (
     <>

@@ -70,10 +70,10 @@ function PaperCres() {
               className="event-phone"
               style={{ textAlign: "center", marginTop: 28, fontSize: 21 }}
             >
-              +91 9840440839
+              +91 9750686862
             </h5>
             <h5 style={{ textAlign: "center", marginTop: 12, fontSize: 24 }}>
-              {/* Shyam Kumar A */}
+             Muhammad Owais
             </h5>
 
             <a
@@ -145,12 +145,13 @@ function PaperCres() {
 
             <ul className="students">
               <h2>Coordinators</h2>
-              {/* <p>Shyam Kumar A</p>
-              <p>Kirupa D</p>
-              <p>Aravind G</p>
+              <p>Muhammad Owais</p>
+              <p>Nithin</p>
+              <p>Noorul Hassan</p>
+              {/* <p>Aravind G</p>
               <p>Janani P</p>
               <p>Arun KH</p>
-              <p>Sachin R</p> */}
+              <p>Sachin R</p>  */}
             </ul>
           </div>
         </div>
