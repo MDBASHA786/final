@@ -533,7 +533,7 @@ body {
   position: relative;
   display: grid;
   grid-template-columns: auto auto auto;
-  justify-content: space-evenly;
+  justify-content: center;
   /* Center items horizontally */
   align-items: center;
   /* Center items vertically */
