@@ -70,8 +70,8 @@ export const META_EVENTS = [
 ];
 
 export const SPONSERS = [
-  { name: "IOE", imgURL: "/imgs/sponsors/sp1.webp" },
-  { name: "GUVI", imgURL: "/imgs/sponsors/sp4.webp" }
+  { name: "IOE", imgURL: "/imgs/sponsors/sp1.webp" ,link:"https://intelligentoverseaseducation.com/"},
+  { name: "GUVI", imgURL: "/imgs/sponsors/sp4.webp" ,link:"https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjDk63LqciLAxUNqWYCHdvSDrQYABAAGgJzbQ&ae=2&aspm=1&co=1&ase=5&gclid=CjwKCAiAtsa9BhAKEiwAUZAszZVU8T86TzIQO-xFiEP_6lIvox_Osq45GW1KQW8JdCia9tVWzuazTBoCyIwQAvD_BwE&ohost=www.google.com&cid=CAESVOD2W_ibfLin9JjiTHHh0_cNe6nulTwdGF4RUURNID6SQqIOdjl5HfObdLyBKgmPKOnzd7wW4ULuBBztAgt1iuEMeMOYvSsrZQmkk4zbxUi8jlbJ6A&sig=AOD64_0nGl78kHPsDrkJVTv3UnooWSnJKw&q&adurl&ved=2ahUKEwi7mafLqciLAxWmTmwGHfEGFEEQ0Qx6BAgSEAE"}
   // { name: "Trust", imgURL: "/imgs/sponsors/sp5.webp" },
 ];
 
