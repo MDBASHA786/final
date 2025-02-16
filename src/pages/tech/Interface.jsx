@@ -7,10 +7,18 @@ function Interface() {
   }, []);
 
   const rules = [
-    "Complete the challenge within 45 minutes.",
-    "Work individually without collaboration.",
-    "Create at least three screens.",
+    "Complete the challenge within 2 Hours.",
+    "Each Team Must Consist of 2 Members",
+    "The Requirements of the design will be said on spot.",
     "Bring your laptop with preferred design software. (Figma, Sketch, etc)",
+    "Topic Will Be Said On Spot"
+  ];
+  const round1 = [
+    "On spot topic will be given and requirements of the design will be listed , Teams will proceed to the round 2 on verifying the requirements in the design.",
+  ];
+
+  const round2 = [
+    "New requirements will be given which would be complex . The requirements must be implemented on your design from round 1 .",
   ];
 
   return (
@@ -45,7 +53,7 @@ function Interface() {
               (Registration Closed)
             </h6> */}
             <div className="regbtn" style={{  textAlign: "center" }}>
-        
+            <a>₹ 100 Per Person</a>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSe4gD8hGiO1VpZllED1bfwzNfnIJNkxRqzCZsgzLtCO5KzkfA/viewform?usp=header">
              <Button > </Button>
              </a>
@@ -66,7 +74,7 @@ function Interface() {
               ))}
             </ul>
 
-            <h2>Themes</h2>
+            <h2>Example Themes</h2>
             <ul style={{ textAlign: "center", listStyle: "none" }}>
               <li>
                 <i className="bi bi-instagram"></i> Social Media

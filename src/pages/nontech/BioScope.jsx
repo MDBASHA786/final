@@ -7,7 +7,7 @@ function BioScope() {
   }, []);
 
   const rules = [
-    "Teams of 2-3 members can participate.",
+    "TEach team must consist of 3 members .",
     "Each team gets a limited time to guess the movie or song.",
     "No phones or outside help allowed",
     "Organizers’ decisions are final.",
@@ -61,7 +61,7 @@ function BioScope() {
               (Registration Closed)
             </h6> */}
              <div className="regbtn" style={{  textAlign: "center" }}>
-          
+             <a>₹ 100 Per Person</a>
              <a href="https://docs.google.com/forms/d/e/1FAIpQLSc-xUyNB8iIJvNm2k11Y6h7Lv4odbYTnvQgR9CDFnd4xb8rxA/viewform?usp=sharing">
               <Button > </Button>
              </a>

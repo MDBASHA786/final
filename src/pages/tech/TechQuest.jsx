@@ -67,6 +67,7 @@ function TechQuest() {
               (Registration Closed)
             </h6> */}
             <div className="regbtn" style={{  textAlign: "center" }}>
+             <a>₹ 100 Per Person</a>
              <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1LVU2fE9r9KKveZohC5UKLLFyxpOm1yyxIqopombEvmGksA/viewform?usp=header">
              <Button > </Button>
              </a>

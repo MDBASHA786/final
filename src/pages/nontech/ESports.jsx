@@ -7,7 +7,7 @@ function ESports() {
   }, []);
 
   const rules = [
-    "Each team must consist of 2 to 3 members.",
+    "Each team must consist of (VALORANT-5 members , FREE FIRE-4 members , PUBG-4 members.",
     "Teams will be allotted slots on a first-come, first-served basis.",
     "All team members must adhere to the time limits for each round.",
     "Teams must follow instructions provided by the coordinators for each round.",
@@ -91,7 +91,7 @@ function ESports() {
             </h6> */}
             <div className="regbtn" style={{  textAlign: "center" }}>
             <div style={{ display: "flex", flexDirection: "column", gap: "10px", alignItems: "center" }}> 
-        
+            <a>₹ 100 Per Person</a>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5D4cJEXXSUc7CneZJoxEfOwnvSDJZKOvZrAOUFI3FVbs9uA/viewform?usp=sharing">
              <Button label="VALORANT" > </Button>
              </a>

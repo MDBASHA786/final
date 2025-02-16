@@ -7,7 +7,7 @@ function GameVerse() {
   }, []);
 
   const rules = [
-    " Each team must consist of 2 to 3 members.",
+    " Each team must consist of 4 members.",
     "Teams will be allotted slots on a first-come, first-served basis.",
     "All team members must adhere to the time limits for each round.",
     "Teams must follow instructions provided by the coordinators for each round.",
@@ -66,7 +66,7 @@ function GameVerse() {
               (Registration Closed)
             </h6> */}
             <div className="regbtn" style={{  textAlign: "center" }}>
-           
+            <a>₹ 100 Per Person</a>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSdI_I58zlIuCfUXIWBB-jU6OmN9Pf6ceMt6o1ZRvQV7zNjVIg/viewform?usp=sharing">
              <Button > </Button>
              </a>

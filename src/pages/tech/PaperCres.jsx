@@ -6,22 +6,45 @@ function PaperCres() {
     window.scrollTo(0, 0);
   }, []);
 
+ 
   const topics = [
-    "AI in daily life",
-    "The future of transportation",
-    "AI in education",
-    "ML for productivity",
-    "Blockchain for data analytics",
-    "Data-driven consumer experience",
-    "Your innovative ideas",
+    "1.	Artificial Intelligence (AI)",
+    "2.	Machine Learning (ML)",
+    "3.	Deep Learning",
+    "4.	Computer Vision",
+    "5.	Natural Language Processing (NLP)",
+    "6.	Data Science",
+    "7.	Internet of Things (IoT)",
+    "8.	Cloud Computing",
+    "9.	Cybersecurity",
+    "10.	Blockchain Technology",
+    "11.	Edge Computing",
+    "12.	Big Data Analytics",
+    "13.	Robotics",
+    "14.	Human-Computer Interaction (HCI)",
+    "15.	Quantum Computing"
+   ,
   ];
 
   const rules = [
-    "Presentation should be done in English",
-    "Team should comprise of only 3 members",
-    "Individual participation is also encouraged",
-    "Maximum 7 min is provided for each presentation (5 min presentation, 2 min Q&A session)",
-    "All participants are allowed to use a maximum of 12 slides",
+    "1.	Paper Submission: ",
+    "o	Submit your paper in the prescribed format (PDF/Word) by the deadline.",
+    "o	Papers must be original and plagiarism-free",
+    "2. Team Composition:",
+    "o	A team can consist of a maximum of two students.",
+    "o	Both team members must be from the same institution.",
+    "3.	Presentation Guidelines:",
+    "o	The presentation should last 8-10 minutes, followed by a 2-minute Q&A session.",
+    "o	Participants are encouraged to use PowerPoint .",
+    "o	The total number of slides should not exceed 10.",
+    "4.	Time Management:",
+    "o	Presentations should strictly adhere to the allotted time.",
+    "o	Late or incomplete presentations may face penalties.",
+    "5.	Code of Conduct:",
+    "o	Maintain professionalism throughout the presentation and Q&A.",
+    "o	Disruptive or inappropriate behavior will lead to disqualification.",
+    "6.	Decision of Judges:",
+    "o	The judges’ decisions will be final and binding."
   ];
 
   return (
@@ -87,12 +110,25 @@ function PaperCres() {
             <div className="regbtn" style={{  textAlign: "center" }}>
            
              <a href="https://docs.google.com/forms/d/e/1FAIpQLScnNbVqfSnP-zi83AUfdZJRpa67PiHbow1BYmK8HUNF9zZvMg/viewform?usp=header">
+             <a>₹ 100 Per Person</a>
              <Button > </Button>
              </a>
              
             </div>
           </div>
           <div className="info">
+          <h2>Topics</h2>
+          <h2>Description</h2>
+            <p>
+            The Paper Presentation event offers a platform for participants to 
+            showcase their innovative ideas and research in cutting-edge fields 
+            like Artificial Intelligence, IoT, Data Science, Cybersecurity, and more. 
+            It encourages critical thinking, effective communication, and scientific analysis as 
+            participants present their work to a panel of judges and an audience. Evaluation will be 
+            based on originality, relevance, clarity, and engagement, including a Q&A session
+            to assessthe depth of knowledge. This is a chance to share insights, gain feedback, 
+            and make an impact in your area of expertise!
+            </p>
             <h2>Topics</h2>
             <ul>
               {topics.map((topic, index) => (

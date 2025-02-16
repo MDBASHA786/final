@@ -9,7 +9,7 @@ function CountDown() {
         seconds: 0,
     });
 
-    const targetDate = new Date('2025-02-17T09:00:00');
+    const targetDate = new Date('2025-02-24T09:00:00');
 
     useEffect(() => {
         const intervalId = setInterval(() => {

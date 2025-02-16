@@ -7,7 +7,7 @@ function CodeRoulette() {
   }, []);
 
   const rules = [
-    "Team Formation Participants are initially grouped into random teams of 3-4 members. Each team is given a project topic or problem statement.",
+    "Team Formation Participants are initially grouped into random teams of 2 members. Each team is given a project topic or problem statement.",
     "The Twist  Every 15 minutes, a 'team shuffle' occurs are reassigned to new teams randomly. The shuffled teams must continue working on the project handed over by the previous group.",
     "Project Themes  Broad topics such as:  Social Good: A website or app addressing a community problem.  Game Development: A simple interactive game.",
     "Duration Total event time: 2–3 hours. 15-minute intervals for team switches. At the end of the event, each project is presented and evaluated.",
@@ -60,7 +60,7 @@ function CodeRoulette() {
               (Registration Closed)
             </h6> */}
             <div className="regbtn" style={{  textAlign: "center" }}>
-           
+            <a>₹ 100 Per Person</a>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSdZ4mh8V1Ij0FMtTuGBlSMw94HpBoRNerRc2m3APx50Y1_gXA/viewform?usp=header">
              <Button > </Button>
              </a>
