@@ -109,8 +109,8 @@ function PaperCres() {
             </h6>
             <div className="regbtn" style={{  textAlign: "center" }}>
             <div style={{ display: "flex", flexDirection: "column", gap: "10px", alignItems: "center" }}> 
-             <a href="https://docs.google.com/forms/d/e/1FAIpQLScnNbVqfSnP-zi83AUfdZJRpa67PiHbow1BYmK8HUNF9zZvMg/viewform?usp=header">
-             <a>₹ 100 Per Person</a>
+            <a>₹ 100 Per Person</a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLScnNbVqfSnP-zi83AUfdZJRpa67PiHbow1BYmK8HUNF9zZvMg/viewform?usp=header">
              <Button > </Button>
              </a>
             </div> 
