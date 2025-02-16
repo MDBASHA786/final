@@ -532,7 +532,7 @@ body {
   margin-top: 35px;
   position: relative;
   display: grid;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: repeat(100px);
   justify-content:;
   /* Center items horizontally */
   align-items: center;
@@ -545,7 +545,7 @@ body {
 .home .grid-sponsers .card img {
   border-radius: 8px;
   filter: brightness(85%);
-  margin-right: 20px;
+
   /* Darken the image */
   transition: filter 0.3s ease;
   /* Smooth transition for the filter */
