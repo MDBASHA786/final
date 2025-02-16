@@ -116,7 +116,7 @@ function PaperCres() {
             </div> 
             </div>
           </div>
-          <div className="info">
+          <div className="info" id="paper">
           <h2>Topics</h2>
           <h2>Description</h2>
             <p>
