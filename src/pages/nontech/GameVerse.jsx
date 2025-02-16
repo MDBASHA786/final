@@ -66,11 +66,12 @@ function GameVerse() {
               (Registration Closed)
             </h6> */}
             <div className="regbtn" style={{  textAlign: "center" }}>
+            <div style={{ display: "flex", flexDirection: "column", gap: "10px", alignItems: "center" }}> 
             <a>₹ 100 Per Person</a>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSdI_I58zlIuCfUXIWBB-jU6OmN9Pf6ceMt6o1ZRvQV7zNjVIg/viewform?usp=sharing">
              <Button > </Button>
              </a>
-            
+            </div>
             </div>
           </div>
           <div className="info">

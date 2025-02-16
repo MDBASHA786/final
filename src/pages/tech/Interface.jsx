@@ -53,10 +53,12 @@ function Interface() {
               (Registration Closed)
             </h6> */}
             <div className="regbtn" style={{  textAlign: "center" }}>
+            <div style={{ display: "flex", flexDirection: "column", gap: "10px", alignItems: "center" }}> 
             <a>₹ 100 Per Person</a>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSe4gD8hGiO1VpZllED1bfwzNfnIJNkxRqzCZsgzLtCO5KzkfA/viewform?usp=header">
              <Button > </Button>
              </a>
+            </div>
             </div>
           </div>
           <div className="info">

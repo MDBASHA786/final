@@ -60,11 +60,12 @@ function CodeRoulette() {
               (Registration Closed)
             </h6> */}
             <div className="regbtn" style={{  textAlign: "center" }}>
+            <div style={{ display: "flex", flexDirection: "column", gap: "10px", alignItems: "center" }}> 
             <a>₹ 100 Per Person</a>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSdZ4mh8V1Ij0FMtTuGBlSMw94HpBoRNerRc2m3APx50Y1_gXA/viewform?usp=header">
              <Button > </Button>
              </a>
-             
+             </div>
             </div>
           </div>
           <div className="info">

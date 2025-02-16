@@ -44,11 +44,12 @@ function BoxCricket() {
               Abinash
             </h5>
             <div className="regbtn" style={{  textAlign: "center" }}>
+            <div style={{ display: "flex", flexDirection: "column", gap: "10px", alignItems: "center" }}> 
              <a>₹ 100 Per Person</a>
              <a href="https://docs.google.com/forms/d/e/1FAIpQLSdETkNVZ6lVkSt7542_W70yqvQhzao4_0mkGYOzbzwDclwIMw/viewform?usp=sharing">
               <Button > </Button>
              </a>
-            
+            </div>
             </div>
             {/* <h6 style={{ textAlign: "center", marginTop: 12,color: '#ffffff59'}}>(Registration Closed)</h6> */}
           </div>

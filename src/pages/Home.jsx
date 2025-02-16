@@ -53,7 +53,7 @@ function Home() {
             </div>
           </div>
           <Button className="reg-btn" />
-          <p className="glow" style={{ fontSize: 34 }}>17th FEB'25</p>
+          <p className="glow" style={{ fontSize: 34 }}>24th FEB'25</p>
         </div>
       </div>
       </section>
