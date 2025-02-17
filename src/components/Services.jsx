@@ -16,7 +16,7 @@ function Services() {
           </div>
         </div>
 
-        <div className="card">
+        {/* <div className="card">
           <div className="dotted-design">
             <div className="dot">  </div>
             <div className="dot">  </div>
@@ -27,7 +27,7 @@ function Services() {
             <div className="dot">  </div>
             <div className="dot">  </div>
           </div>
-        </div>
+        </div> */}
 
         <div className="card">
           <div className="dotted-design">
