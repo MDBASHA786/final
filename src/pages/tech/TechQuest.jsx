@@ -9,7 +9,7 @@ function TechQuest() {
   const [display, setDisplay] = useState(false);
 
   const rules = [
-    "Each Team Must consist of 3.",
+    "Each team should have 3 members.",
     "Each challenge must be completed in sequence to move to the next.",
     "External help or unauthorized tools are not allowed.",
     "Tampering with equipment or sabotaging other teams is strictly prohibited.",

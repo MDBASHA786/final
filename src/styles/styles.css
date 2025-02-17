@@ -532,8 +532,8 @@ body {
   margin-top: 35px;
   position: relative;
   display: grid;
-  grid-template-columns: subgrid;
-  justify-content:center;
+  grid-template-columns: auto auto auto;
+  justify-content: space-evenly;
   /* Center items horizontally */
   align-items: center;
   /* Center items vertically */

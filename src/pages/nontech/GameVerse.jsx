@@ -17,7 +17,7 @@ function GameVerse() {
   ];
 
   const round1 = [
-    "Two team members will take turns being blindfolded to taste and identify vegetables or fruits.",
+    "FLAVOR RUSH Blindfolded Taste Test where team members identify raw fruits and vegetables.Time Limit: 40 Seconds per team..",
   ];
 
   const round2 = [
