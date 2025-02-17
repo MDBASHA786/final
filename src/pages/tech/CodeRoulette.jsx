@@ -84,7 +84,7 @@ function CodeRoulette() {
               ))}
             </ul>
 
-            <h2>Round-1</h2>
+            {/* <h2>Round-1</h2>
             <ul>
               {round1.map((rule, index) => (
                 <li key={index}>{rule}</li>
@@ -96,7 +96,7 @@ function CodeRoulette() {
               {round2.map((rule, index) => (
                 <li key={index}>{rule}</li>
               ))}
-            </ul>
+            </ul> */}
 
             <ul className="students">
               <h2>Coordinators</h2>
