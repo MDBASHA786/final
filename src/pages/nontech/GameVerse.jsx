@@ -17,19 +17,26 @@ function GameVerse() {
   ];
 
   const round1 = [
-    "FLAVOR RUSH Blindfolded Taste Test where team members identify raw fruits and vegetables.Time Limit: 40 Seconds per team..",
+    "FLAVOR RUSH:",
+    "Blindfolded Taste Test where team members identify raw fruits and vegetables.",
+    "Time Limit: 40 Seconds per team..",
   ];
 
   const round2 = [
-    "Two teams compete simultaneously to roll balls into cups on a table, aiming to score the most points.",
+    "–ROLL & SCORE",
+"Two teams compete in parallel, where they roll balls into a set of cups attached to a table, aiming to score as many points as possible before the timer runs out. Points are awarded based on which cup the ball lands in, with each cup having a different point value. Each cup scores only once, no matter how many balls land in it.",
+ "Time Limit: 90 Seconds per team.",
   ];
 
   const round3 = [
-    "Teams take turns drawing clues (words or movie names) for their teammates to guess.",
+    "DRAW & GUESS",
+"Teams guess as many clues as possible based on drawings made by their teammates.",
+"Time Limit: 90 Seconds per team.",
   ];
 
   const round4 = [
-    "A three-level relay format, where each team member completes one level before the next starts.",
+    "THE RELAY CHALLENGE!",
+"Consists of three thrilling levels, with each team member playing their assigned level in a relay format. The three relay tasks will be revealed on the spot..",
   ];
 
   return (
