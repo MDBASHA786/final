@@ -18,7 +18,7 @@ function Button() {
   return (
    
       <button type='button' className='btn btn-primary'>
-        Registeration open
+       <a href='https://forms.gle/72zsz6YngipjH3o76'> Registeration open</a>
       </button>
     
   );
