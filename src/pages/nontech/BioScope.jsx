@@ -22,7 +22,7 @@ function BioScope() {
   ];
 
   const round3 = [
-    "A partially blank movie name will be shown to the players. They must fill in the blanks to identify the correct movie name. ( one general clues will be given )",
+    "Players need to find the song from the BGM played ",
   ];
 
   const round4 = ["SURPRISE ROUND"];
