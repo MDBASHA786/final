@@ -50,10 +50,20 @@ function BioScope() {
               className="event-phone"
               style={{ textAlign: "center", marginTop: 34, fontSize: 21 }}
             >
-              +91 9150240636
+              +91 6383331747
             </h5>
             <h5 style={{ textAlign: "center", marginTop: 12, fontSize: 24 }}>
               Naveeth
+            </h5>
+            
+            <h5
+              className="event-phone"
+              style={{ textAlign: "center", marginTop: 34, fontSize: 21 }}
+            >
+              +91 9150240636
+            </h5>
+            <h5 style={{ textAlign: "center", marginTop: 12, fontSize: 24 }}>
+             Aathika
             </h5>
             {/* <h6
               style={{ textAlign: "center", marginTop: 12, color: "#ffffff59" }}
