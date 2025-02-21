@@ -20,12 +20,11 @@ function TechQuest() {
   ];
 
   const round1 = [
-    "Coding Challenge",
-    "Debugging",
-    "Crypo-graphic word puzzles",
-    "Data Exploration",
-    "HTML, CSS",
-    "Networking",
+      "QR scanning",
+      "Encryption /Decryption", 
+      "Debugging",
+      "File Founder",
+      "Q/A (Networking,cryptography,DBMS,Software Testing )",
   ];
 
   const round2 = [
